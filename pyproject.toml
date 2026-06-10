@@ -23,4 +23,5 @@ dependencies = [
     "sentence-transformers>=5.5.1",
     "langchain-huggingface>=1.2.2",
     "langchain-chroma>=1.1.0",
+    "streamlit>=1.58.0",
 ]
