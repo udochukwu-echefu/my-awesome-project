@@ -1,0 +1,19 @@
+Company: TechNova Nigeria
+Founded: 2018
+Headquarters: Lagos, Nigeria
+CEO: Amara Okafor
+
+Products:
+- SolarPay: Mobile payment app for solar energy vendors
+- FarmSense: AI-powered crop monitoring system for farmers
+- EduBot: Personalised learning assistant for secondary school students
+
+Employees: 120 staff across Lagos, Abuja, and Port Harcourt
+
+Revenue: 2023 revenue was 850 million naira, up 40% from 2022
+
+Mission: To build technology that solves uniquely African problems using AI.
+
+Awards:
+- Best African Startup 2022 (Lagos Tech Summit)
+- Top 50 AI Companies in Africa 2023 (Forbes Africa)
